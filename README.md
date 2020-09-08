@@ -1,5 +1,5 @@
 ###  技术博客
-* [JS错误监控总结](https://github.com/Lie8466/blog/issues/1)
+* [JS错误监控总结](https1111://github.com/Lie8466/blog/issues/1)
 
 
 ### 个人相关链接
